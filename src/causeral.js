@@ -15,6 +15,9 @@ SwiperCore.use([EffectCoverflow, Pagination, Navigation]);
 
 
 
+// import img from './images/woman2.jpeg';
+
+
 export default class Causeral extends Component{
     render(){
         return(
@@ -46,13 +49,13 @@ export default class Causeral extends Component{
         className="mySwiper"
       >
         <SwiperSlide>
-          <img src="./images/people.jpg" />
+        {/* <img src={img} alt=" "  />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="./images/woman.jpeg" />
+        <img src={img} alt=" "  /> */}
         </SwiperSlide>
         <SwiperSlide>
-          <img src={require('./images/woman2.jpeg')} />
+        <img src={require('./images/woman2.jpeg')} />
         </SwiperSlide>
       </Swiper>
     </div>

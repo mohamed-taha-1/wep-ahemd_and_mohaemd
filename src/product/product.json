@@ -1,0 +1,53 @@
+{
+    "prodcut" :[
+        {
+            "id":1,
+            "productName":"T-shirt",
+            "color":"white" ,
+            "size":"sm"
+
+        },
+        {
+            "id":2,
+            "productName":"T-shirt2",
+            "color":"white" ,
+            "size":"sm"
+
+        },
+        {
+            "id":2,
+            "productName":"T-shirt2",
+            "color":"white" ,
+            "size":"sm"
+
+        },
+        {
+            "id":3,
+            "productName":"T-shirt3",
+            "color":"white" ,
+            "size":"sm"
+
+        },
+        {
+            "id":4,
+            "productName":"jact",
+            "color":"black" ,
+            "size":"m"
+
+        },
+        {
+            "id":5,
+            "productName":"jact2",
+            "color":"black" ,
+            "size":"m"
+
+        },
+        {
+            "id":6,
+            "productName":"jact3",
+            "color":"black" ,
+            "size":"m"
+
+        }
+    ]
+}
